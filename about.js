@@ -1,14 +1,11 @@
 import React from 'react';
 
-const About = () => {
+export default function About() {
   return (
-    <div style={{ padding: "2rem" }}>
-      <h1>About From Zero to AI</h1>
-      <p>From Zero to AI was founded with the vision to revolutionize business processes through artificial intelligence.</p>
-      <p>Our journey started in 2023 with the goal of empowering organizations to automate and optimize their operations effectively.</p>
-      <p>We continue to expand and innovate in the AI field, guided by our core values of integrity, excellence, and collaboration.</p>
+    <div style={{ padding: '20px', maxWidth: '800px', margin: '0 auto' }}>
+      <h2>About From Zero to AI</h2>
+      <p>At From Zero to AI, we are passionate about harnessing the power of artificial intelligence to empower businesses to achieve new heights. With a team of expert AI engineers and strategists, we offer bespoke solutions tailored to meet your unique needs.</p>
+      <p>Our mission is to bridge the gap between AI potential and practical business success, through innovation, integrity, and customer-centric services.</p>
     </div>
   );
-};
-
-export default About;
+}
