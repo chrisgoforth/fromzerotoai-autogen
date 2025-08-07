@@ -1,36 +1,23 @@
-import Head from 'next/head';
+import React from 'react';
 
 export default function Home() {
   return (
-    <div>
-      <Head>
-        <title>LearnAI Hub - Home</title>
-        <meta name="description" content="Your destination for learning and exploring artificial intelligence." />
-      </Head>
-      <header>
-        <h1>Welcome to LearnAI Hub</h1>
-        <p>Your destination for learning and exploring artificial intelligence.</p>
-      </header>
-      <main>
-        <section>
-          <h2>Featured Articles</h2>
-          <p>Explore our latest blog posts and articles about AI advancements.</p>
-          {/* Placeholder for blog post teasers */}
-        </section>
-        <section>
-          <h2>Online Courses</h2>
-          <p>Enroll in our AI courses, tailored for both beginners and experts.</p>
-          {/* Placeholder for course highlights */}
-        </section>
-        <section>
-          <h2>Interactive Demos</h2>
-          <p>Experience AI first-hand with our interactive demos.</p>
-          {/* Placeholder for demo links */}
-        </section>
-      </main>
-      <footer>
-        <p>&copy; 2025 LearnAI Hub. All rights reserved.</p>
-      </footer>
-    </div>
+    <main>
+      <section>
+        <h1>Welcome to From Zero to AI</h1>
+        <p>Your gateway to leveraging AI technology for your business.</p>
+      </section>
+      <section>
+        <h2>Our Services</h2>
+        <p>Explore our range of AI solutions tailored to your needs.</p>
+      </section>
+      <section>
+        <h2>Testimonials</h2>
+        <p>Read what our satisfied clients have to say.</p>
+      </section>
+      <section>
+        <button>Contact Us</button>
+      </section>
+    </main>
   );
 }
