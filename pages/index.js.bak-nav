@@ -3,13 +3,6 @@ import React from 'react';
 export default function Home() {
   return (
     <main>
-
-<nav style={{display:'flex',gap:'16px',padding:'12px 16px',borderBottom:'1px solid #eee'}}>
-  <a href="/">Home</a>
-  <a href="/about">About</a>
-  <a href="/contact">Contact</a>
-</nav>
-
       <section>
         <h1>H1: Build an autonomous AI business that runs itself</h1>
         <p>Subhead: From Zero to AI designs, demonstrates, and productizes AI-run ventures that acquire customers, deliver value, and convert into recurring revenue — fast and without a big ops team.</p>
