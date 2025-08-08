@@ -1,7 +1,7 @@
 import Head from 'next/head';
 export default function Pricing(){
   return (<>
-    <Head><title>Pricing — From Zero to AI</title><meta name="description" content="Early access pricing for the From Zero to AI project." /><title>Pricing \u2014 From Zero to AI</title></Head>
+    <Head><title>Pricing \u2014 From Zero to AI</title></Head>
     <main style={{maxWidth:960,margin:'40px auto',padding:'0 16px',lineHeight:1.6}}>
       <h1>Pricing</h1>
       <p>Early access pricing while we build in public.</p>

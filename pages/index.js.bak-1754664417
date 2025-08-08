@@ -1,5 +1,4 @@
 import React from 'react';
-import Head from 'next/head';
 
 export default function Home() {
   return (
@@ -12,8 +11,6 @@ export default function Home() {
   <a href="/about">About</a>
   <a href="/contact">Contact</a>
 </nav>
-<Head><title>From Zero to AI — Build Log & Playbook</title><meta name="description" content="Building an autonomous AI-run business in public. Weekly results, pricing, and the playbook." /></Head>
-
 
       <section>
         <h1>H1: Go from idea to an autonomous AI-run business — fast</h1>
