@@ -11,8 +11,8 @@ export default function Home() {
 </nav>
 
       <section>
-        <h1>H1: From Zero to AI — launch an autonomous AI-run business that earns while you build.</h1>
-        <p>Subhead: We help founders and curious builders prototype, productize, and operate AI systems—turning demos into sellable, self-running revenue engines without hiring large teams.</p>
+        <h1>H1</h1>
+        <p>From Zero to AI — Build an autonomous business that runs itself</p>
       </section>
       <section>
         <h2>Our Services</h2>
