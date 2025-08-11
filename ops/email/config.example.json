@@ -1,7 +1,0 @@
-{
-  "provider": "sendgrid",
-  "templates": {
-    "welcome": "tmpl_welcome_id",
-    "abandoned": "tmpl_abandoned_id"
-  }
-}

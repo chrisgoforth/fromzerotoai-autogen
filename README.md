@@ -1,1 +1,3 @@
-(dry-run) CEO would add a blurb here.
+# FromZeroToAI
+
+Empty workspace. The autonomous CEO will decide the business model and rebuild from scratch.
