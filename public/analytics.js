@@ -1,3 +1,3 @@
-(function(){ console.log('analytics init'); })();
+// Analytics placeholder\n(function(){ console.log('analytics init'); })();
 
-Generated: 2025-08-12T20:59:52.289719Z
+Generated: 2025-08-12T21:05:03.165061Z
