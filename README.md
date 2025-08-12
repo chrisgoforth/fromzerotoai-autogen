@@ -1,1 +1,1 @@
-# fresh start
+# Site repo placeholder
